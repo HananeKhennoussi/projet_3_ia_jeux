@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+<rect width="800" height="500" fill="white"/>
+<text x="400" y="30" text-anchor="middle" font-size="20">Temps moyen</text>
+<line x1="60" y1="440" x2="740" y2="440" stroke="black"/>
+<line x1="60" y1="60" x2="60" y2="440" stroke="black"/>
+<polyline fill="none" stroke="blue" stroke-width="2" points="60.0,421.42034219223905 135.55555555555554,401.58591817726983 211.11111111111111,386.14496937715114 286.66666666666663,342.29580492814847 362.22222222222223,311.97339877241484 437.77777777777777,300.03970936152245 513.3333333333333,264.8286757430278 588.8888888888889,235.43993902207953 664.4444444444445,152.78293686719604 740.0,164.06048521041043"/>
+<polyline fill="none" stroke="red" stroke-width="2" points="60.0,415.2496609711654 135.55555555555554,383.6407580628135 211.11111111111111,356.31563894246796 286.66666666666663,346.8375364290544 362.22222222222223,269.61769618864236 437.77777777777777,231.46807055462168 513.3333333333333,229.36324549347128 588.8888888888889,206.91549585715234 664.4444444444445,88.22557517072647 740.0,60.0"/>
+<text x="600" y="80" fill="blue">GS etudiants</text>
+<text x="600" y="100" fill="red">GS parcours</text>
+<text x="60.0" y="460" text-anchor="middle" font-size="12">200</text>
+<text x="135.55555555555554" y="460" text-anchor="middle" font-size="12">400</text>
+<text x="211.11111111111111" y="460" text-anchor="middle" font-size="12">600</text>
+<text x="286.66666666666663" y="460" text-anchor="middle" font-size="12">800</text>
+<text x="362.22222222222223" y="460" text-anchor="middle" font-size="12">1000</text>
+<text x="437.77777777777777" y="460" text-anchor="middle" font-size="12">1200</text>
+<text x="513.3333333333333" y="460" text-anchor="middle" font-size="12">1400</text>
+<text x="588.8888888888889" y="460" text-anchor="middle" font-size="12">1600</text>
+<text x="664.4444444444445" y="460" text-anchor="middle" font-size="12">1800</text>
+<text x="740.0" y="460" text-anchor="middle" font-size="12">2000</text>
+</svg>
